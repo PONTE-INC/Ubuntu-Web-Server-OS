@@ -1,7 +1,8 @@
 [user]
   name = 
   email = 
-
+  
+  
 [alias]
   a = add
   b = branch
